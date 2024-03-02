@@ -7,4 +7,5 @@
 <p>You only have to do that if you want to. I don't care. LOL</p><br>
 <br>
 <h1>Web Demo</h1>
-<p>View a web demo of this using this <a href="https://chess-pieces-demo.netlify.app/">Demo site</a> I made</p>
+<p>View a web demo of this using this <a href="https://chess-pieces-demo.netlify.app/">Demo site</a> I made</p><br>
+<p>Please note that assest resoution is low due to my web hosters rendering limits. (I'm too broke to afford one.)</p>
